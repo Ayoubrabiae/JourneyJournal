@@ -9,9 +9,9 @@ export default function Hero() {
     <section className="hero">
       <div className="container" id='home'>
         <div className="images">
-          <img src="../../public/hero-img1.jpg" alt="hero-image" loading='lazy' />
-          <img src="../../public/hero-img2.jpg" alt="hero-image" loading='lazy' />
-          <img src="../../public/hero-img3.jpg" alt="hero-image" loading='lazy' />
+          <img src="https://cdn.discordapp.com/attachments/1059547728369156268/1120353894644580433/85e40f33-f9d5-4c15-b8c4-eb6f35f57c69.jpg" alt="hero-image" loading='lazy' />
+          <img src="https://cdn.discordapp.com/attachments/1059547728369156268/1120354471952789564/66b3e58b-1716-405d-9b7f-671ab626f697.jpg" alt="hero-image" loading='lazy' />
+          <img src="https://cdn.discordapp.com/attachments/1059547728369156268/1120353204551557170/9f7a5305-5904-459c-bacd-366c6f76fdc6.jpg" alt="hero-image" loading='lazy' />
         </div>
         <p className="text">
           Collect moments, not things. Let your journeys become stories,
