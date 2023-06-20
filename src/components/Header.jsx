@@ -3,7 +3,7 @@ export default function Header() {
     <header>
       <div className="container">
         <div className="logo">
-          <img src="../../public/logo.png" alt="Logo Image" />
+          <img src="../public/logo.png" alt="Logo Image" />
         </div>
         <nav>
           <ul>
