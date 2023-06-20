@@ -131,6 +131,7 @@ header nav ul li a:hover {
   transform: translate(-50%, -50%);
   transition-duration: var(--drt);
   z-index: 1;
+  max-width: 300px;
 }
 
 @media (max-width: 991px) {
@@ -248,6 +249,7 @@ header nav ul li a:hover {
 
 .browse .card .image img {
   box-shadow: 0 0 10px #777;
+  max-width: 210px;
 }
 
 .browse .card .text h3 {
